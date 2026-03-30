@@ -20,4 +20,4 @@ This program analyzes a text file and displays:
 - file handling
 
 ## Execution
-python main.py
+python Fileanalyzer.py
